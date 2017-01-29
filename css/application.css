@@ -1,0 +1,2 @@
+body,html{padding:0;margin:0}.outer-wrapper{max-width:720px;width:100%;position:relative;display:block;margin:auto;border:1px dotted purple}.inner-wrapper{border:1px dotted purple}.inner-wrapper .content{border:1px dotted purple}.inner-wrapper p{padding:25px}.inner-wrapper .edge{border:1px dotted purple;position:absolute;background:yellow;width:100%;max-width:200px;height:100%;max-height:80px;transform:rotate(45deg)}
+/*# sourceMappingURL=application.css.map */
